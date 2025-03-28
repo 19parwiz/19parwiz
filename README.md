@@ -1,7 +1,9 @@
 # APB
-Hello, this is my profile
-<h1 align="center">Hi 👋, I'm Ali Parwiz</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+Hello, this is my profile  
+
+<h1 align="center">Hi 👋, I'm Ali Parwiz</h1>  
+<h3 align="center">A passionate backend developer</h3>  
+
 
 - 🌱 I’m currently learning **Gin, Spring**
 
