@@ -5,7 +5,7 @@ Hello, this is my profile
 <h3 align="center">A passionate backend developer</h3>  
 
 
-- 🌱 I’m currently learning **Gin, Spring**
+- 🌱 I’m currently learning **Gin**
 
 - 💬 Ask me about **Golang**
 
