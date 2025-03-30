@@ -1,5 +1,5 @@
 # APB
-Hello, this is my profile  
+Hello, it's me! 
 
 <h1 align="center">Hi 👋, I'm Ali Parwiz</h1>  
 <h3 align="center">A passionate backend developer</h3>  
