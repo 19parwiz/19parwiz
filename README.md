@@ -7,7 +7,7 @@ Hello, it's me!
 
 - 🌱 I’m currently learning **Gin**
 
-- 💬 Ask me about **Golang**
+- 💬 Ask me about **Golang and Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
