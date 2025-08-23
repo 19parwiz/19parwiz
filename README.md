@@ -2,11 +2,11 @@
 Hello, it's me! 
 
 <h1 align="center">Hi 👋, I'm Ali Parwiz</h1>  
-<h3 align="center">A passionate backend developer</h3>  
+<h3 align="center"> backend developer</h3>  
 
 - 🌱 I’m currently learning **Spring**
 
-- 💬 Ask me about **Golang and Java**
+- 💬 Ask me about **Java and Golang**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
