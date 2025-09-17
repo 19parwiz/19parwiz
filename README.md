@@ -4,7 +4,7 @@ Hello, it's me!
 <h1 align="center">Hi 👋, I'm Ali Parwiz</h1>  
 <h3 align="center"> backend developer</h3>  
 
-- 🌱 love the  **Spring:))**
+- 🌱I’m currently learning **Spring:))**
 
 - 💬 Ask me about **Java and Golang**
 
