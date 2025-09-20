@@ -15,7 +15,7 @@ Hello,
   <a href="mailto:apb@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://leetcode.com/YOUR_USERNAME/" target="_blank">
+  <a href="https://leetcode.com/parwiz1919/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </p>
