@@ -2,25 +2,28 @@
 Hello, it's me! 
 
 <h1 align="center">Hi 👋, I'm Ali Parwiz</h1>  
-<h3 align="center"> backend developer</h3>  
+<h3 align="center">Backend Developer</h3>  
 
-- 🌱I’m currently learning **Spring:))**
-
-- 💬 Ask me about **Java and Golang**
+- 🌱 I’m currently learning **Spring:))**  
+- 💬 Ask me about **Java and Golang**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <!-- Telegram -->
   <a href="https://t.me/JanAP19" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
 
+  <!-- Email -->
   <a href="mailto:apb@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/YOUR_USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </p>
-<a href="https://leetcode.com/YOUR_USERNAME/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"/>
-</a>
 
 
 
