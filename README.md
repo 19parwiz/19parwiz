@@ -18,6 +18,10 @@ Hello, it's me!
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+<a href="https://leetcode.com/parwiz1919/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
