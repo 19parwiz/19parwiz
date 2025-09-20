@@ -19,6 +19,11 @@ Hello,
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </p>
+ <!-- LinkedIn -->
+  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAM](https://www.linkedin.com/in/ali-parwiz-baktash-6a302a299/)E/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
