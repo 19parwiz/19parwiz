@@ -8,22 +8,28 @@ Hello,
 - 💬 Ask me about **Java and Golang**  
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="display: flex; gap: 10px;">
+  <!-- Telegram -->
   <a href="https://t.me/JanAP19" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="30" height="30"/>
   </a>
+
+  <!-- Email -->
   <a href="mailto:apb@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="30" height="30"/>
   </a>
+
+  <!-- LeetCode -->
   <a href="https://leetcode.com/parwiz1919/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" width="30" height="30"/>
   </a>
-</p>
-     <!-- LinkedIn -->
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ali-parwiz-baktash-6a302a299/" target="_blank">
-    <img src="https://camo.githubusercontent.com/6d1a2a5b8c3d4b7fa8f3b8911a7c44770a4f9fa1796aeb392b9f930b9d2d2b7a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666c61742d726f756e6426616d626c65733d7768697465" alt="LinkedIn" width="30" height="30"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="30" height="30"/>
   </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
