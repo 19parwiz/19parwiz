@@ -24,9 +24,9 @@ Hello,
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" width="30" height="30"/>
   </a>
 
-  <!-- LinkedIn -->
+<!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ali-parwiz-baktash-6a302a299/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="30" height="30"/>
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" height="30"/>
   </a>
 </p>
 
