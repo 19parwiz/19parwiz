@@ -11,24 +11,25 @@ Hello,
 <p align="left" style="display: flex; gap: 10px;">
   <!-- Telegram -->
   <a href="https://t.me/JanAP19" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="30" height="30"/>
+    <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" width="30" height="30"/>
   </a>
 
   <!-- Email -->
   <a href="mailto:apb@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="30" height="30"/>
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="30" height="30"/>
   </a>
 
   <!-- LeetCode -->
   <a href="https://leetcode.com/parwiz1919/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" width="30" height="30"/>
+    <img src="https://img.icons8.com/color/48/000000/leetcode.png" alt="LeetCode" width="30" height="30"/>
   </a>
 
-<!-- LinkedIn -->
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ali-parwiz-baktash-6a302a299/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" height="30"/>
   </a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
