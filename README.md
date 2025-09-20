@@ -19,9 +19,9 @@ Hello,
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </p>
- <!-- LinkedIn -->
-  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAM](https://www.linkedin.com/in/ali-parwiz-baktash-6a302a299/)E/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+     <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/ali-parwiz-baktash-6a302a299/" target="_blank">
+    <img src="https://camo.githubusercontent.com/6d1a2a5b8c3d4b7fa8f3b8911a7c44770a4f9fa1796aeb392b9f930b9d2d2b7a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666c61742d726f756e6426616d626c65733d7768697465" alt="LinkedIn" width="30" height="30"/>
   </a>
 </p>
 
