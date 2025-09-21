@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Parwiz</h1>  
-<h3 align="center">Backend Developer</h3>  
+<h3 align="center">A Backend Developer From Astana</h3>  
 
 - 🌱 I’m currently learning **Spring:))**  
 - 💬 Ask me about **Java and Golang**  
