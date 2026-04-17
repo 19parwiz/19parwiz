@@ -8,7 +8,7 @@
 
 ---
 
-<h3 align="center">🌐 Connect with me</h3>
+<h3 align="center"> Connect with me</h3>
 
 <p align="center">
   <a href="https://t.me/JanAP19" target="_blank">
@@ -44,7 +44,7 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center"> GitHub Stats</h3>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=19parwiz&show_icons=true&theme=radical&hide_border=true"/>
@@ -53,7 +53,7 @@
 
 ---
 
-<h3 align="center">🔥 GitHub Streak</h3>
+<h3 align="center"> GitHub Streak</h3>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=19parwiz&theme=radical&hide_border=true"/>
