@@ -1,4 +1,4 @@
-Readme · MDCopy<h1 align="center">Hi 👋, I'm Ali Parwiz</h1>
+<h1 align="center">Hi 👋, I'm Ali Parwiz</h1>
 <h3 align="center">Backend Developer from Astana 🇰🇿</h3>
 <p align="center">
   🌱 Currently learning <b>Spring</b> <br>
@@ -40,10 +40,13 @@ Readme · MDCopy<h1 align="center">Hi 👋, I'm Ali Parwiz</h1>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=19parwiz&show_icons=true&theme=radical&hide_border=true"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=19parwiz&layout=compact&theme=radical&hide_border=true"/>
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Total%20Commits-?-blue?style=flat-square&logo=github" alt="Total Commits"/>
+  <img src="https://komarev.com/ghpvc/?username=19parwiz&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
+---
 <h3 align="center"> GitHub Streak</h3>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=19parwiz&theme=radical&hide_border=true"/>
