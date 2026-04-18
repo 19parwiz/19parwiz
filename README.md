@@ -1,15 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ali Parwiz</h1>
+Readme · MDCopy<h1 align="center">Hi 👋, I'm Ali Parwiz</h1>
 <h3 align="center">Backend Developer from Astana 🇰🇿</h3>
-
 <p align="center">
   🌱 Currently learning <b>Spring</b> <br>
   💬 Ask me about <b>Java & Golang</b>
 </p>
-
 ---
-
 <h3 align="center"> Connect with me</h3>
-
 <p align="center">
   <a href="https://t.me/JanAP19" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
@@ -24,11 +20,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
 ---
-
 <h3 align="center">🛠 Languages & Tools</h3>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
@@ -41,20 +34,17 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="45" height="45"/>
 </p>
-
 ---
-
 <h3 align="center"> GitHub Stats</h3>
-
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=19parwiz&show_icons=true&theme=radical&hide_border=true"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=19parwiz&layout=compact&theme=radical&hide_border=true"/>
 </p>
-
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Commits-?-blue?style=flat-square&logo=github" alt="Total Commits"/>
+</p>
 
 <h3 align="center"> GitHub Streak</h3>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=19parwiz&theme=radical&hide_border=true"/>
 </p>
